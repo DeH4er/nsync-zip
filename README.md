@@ -1,3 +1,3 @@
 # nsync-zip
 
-zip/unzip directory into buffer
+zip path into buffer, unzip buffers into fs
